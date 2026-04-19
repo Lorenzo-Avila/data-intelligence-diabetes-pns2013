@@ -62,6 +62,12 @@ Classificação baseada em critério combinado (ADA, 2013):
 > do questionário PNS 2013. Sua severidade real é desconhecida e possivelmente 
 > subestimada.
 
+## Links
+
+- Dashboard publicado: [DM Insight — PNS 2013](https://app.powerbi.com/view?r=eyJrIjoiOTRhOGUyMzMtY2U3Zi00ZTkwLTk0NDYtYzE4OTA5OGE4ODM1IiwidCI6IjllNTJkZDBlLWYwYzUtNGJhMS05N2Y1LTZmYThhZjQyMjBiMSJ9&pageName=c25b4f1ed006e3118d30)
+- Microdados PNS 2013 — Exames Laboratoriais: [IBGE](https://ftp.ibge.gov.br/PNS/2013/Divulgacoes/Outros/Exames/BASE_EXAMES_PNS_2013.txt)
+- Dicionário de variáveis PNS 2013: [IBGE — Documentação](https://ftp.ibge.gov.br/PNS/2013/Divulgacoes/Outros/Exames/Dicionario_Exames_PNS_2013.xlsx)
+
 ## Licença
 
 Dados públicos IBGE — uso livre para fins acadêmicos e de pesquisa.
