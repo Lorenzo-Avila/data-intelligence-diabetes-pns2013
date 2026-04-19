@@ -5,7 +5,7 @@ subamostra laboratorial da Pesquisa Nacional de Saúde (PNS 2013), evidenciando
 as lacunas de diagnóstico no sistema de saúde brasileiro.
 
 ## Estrutura do projeto
-
+```
 ├── data/
 │   ├── raw/                        # Microdados brutos PNS 2013 (não versionados)
 │   └── processed/                  # CSVs do star schema
@@ -22,7 +22,7 @@ as lacunas de diagnóstico no sistema de saúde brasileiro.
 │   └── assets/                     # Imagens de fundo utilizadas no dashboard
 ├── .gitignore
 └── README.md
-
+```
 ## Fonte de dados
 
 Pesquisa Nacional de Saúde 2013 — Subamostra de Exames Laboratoriais
