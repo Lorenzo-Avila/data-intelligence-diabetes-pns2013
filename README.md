@@ -229,9 +229,6 @@ data-intelligence-diabetes-pns2013/
 │       └── Dim_Estilo_Vida_Acesso.csv
 ├── notebooks/
 │   └── limpeza_PNS_2013.ipynb      # Pipeline ETL completo e documentado
-├── dashboard/
-│   ├── DM_Insight_PNS2013.pbix     # Dashboard Power BI
-│   └── assets/                     # Imagens de fundo utilizadas no dashboard
 ├── .gitignore
 └── README.md
 ```
