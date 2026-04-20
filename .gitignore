@@ -1,9 +1,9 @@
-# Ignorar dados brutos e staging (muito grandes)
-data/raw/
 *.csv
-!data/processed/*.csv
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+dashboard/
 
-# Ignorar checkpoints do Jupyter
+# checkpoints do Jupyter
 .ipynb_checkpoints/
 __pycache__/
 
