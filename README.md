@@ -38,6 +38,13 @@ Este projeto aplica técnicas de **Data Intelligence e Business Intelligence** s
 
 ---
 
+## 🎬 Demonstração
+
+<img width="1738" height="962" alt="Animação" src="https://github.com/user-attachments/assets/441567cb-6f80-4a91-ac75-dc6521dad7c3" />
+
+---
+---
+
 ## 🏗️ Arquitetura da Solução
 A solução separa a camada de processamento estatístico (Python) da camada de visualização (Power BI). Toda a lógica de negócio envolvendo limpeza, categorização, ponderação e modelagem dimensional é resolvida no ETL, deixando o DAX restrito a agregações contextuais sobre uma base já estruturada.
 
@@ -221,17 +228,8 @@ data-intelligence-diabetes-pns2013/
 ├── data/
 │   ├── raw/                        # Microdados brutos PNS 2013 (não versionados)
 │   └── processed/                  # CSVs do star schema (gerados pelo notebook)
-│       ├── Fato_Individual_Lab.csv
-│       ├── Dim_Sociodemografia.csv
-│       ├── Dim_Geografia.csv
-│       ├── Dim_Perfil_Clinico.csv
-│       ├── Dim_Complicacoes_Diabetes.csv
-│       └── Dim_Estilo_Vida_Acesso.csv
 ├── notebooks/
 │   └── limpeza_PNS_2013.ipynb      # Pipeline ETL completo e documentado
-├── dashboard/
-│   ├── DM_Insight_PNS2013.pbix     # Dashboard Power BI
-│   └── assets/                     # Imagens de fundo utilizadas no dashboard
 ├── .gitignore
 └── README.md
 ```
@@ -240,32 +238,17 @@ data-intelligence-diabetes-pns2013/
 
 ## 🚀 Como Reproduzir
 
-**1. Clone o repositório**
-```bash
-git clone https://github.com/seu-usuario/data-intelligence-diabetes-pns2013.git
-cd data-intelligence-diabetes-pns2013
-```
+**5. Explore os dados processados**
 
-**2. Instale as dependências Python**
-```bash
-pip install pandas numpy rich
-```
+Com os CSVs gerados em `data/processed/`, você pode:
 
-**3. Baixe os microdados**
-
-Acesse o [FTP do IBGE](https://ftp.ibge.gov.br/PNS/2013/Microdados/) e salve o arquivo bruto em `data/raw/`.
-
-**4. Execute o notebook ETL**
-```bash
-jupyter notebook notebooks/limpeza_PNS_2013.ipynb
-```
-Os CSVs serão gerados automaticamente em `data/processed/`.
-
-**5. Abra o dashboard**
-
-Abra `dashboard/DM_Insight_PNS2013.pbix` no Power BI Desktop e atualize a fonte de dados apontando para a pasta `data/processed/`.
-
----
+- Conectar ao **Power BI Desktop** importar os CSVs e replicar
+  o modelo dimensional para suas próprias análises
+- Usar **Jupyter Notebook** para carregar os arquivos com pandas
+  para análises exploratórias adicionais
+- Acessar o **dashboard publicado** diretamente pelo
+  [link do Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiOTRhOGUyMzMtY2U3Zi00ZTkwLTk0NDYtYzE4OTA5OGE4ODM1IiwidCI6IjllNTJkZDBlLWYwYzUtNGJhMS05N2Y1LTZmYThhZjQyMjBiMSJ9&pageName=c25b4f1ed006e3118d30)
+  sem necessidade de instalação
 
 ## ⚠️ Premissas e Limitações
 
