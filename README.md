@@ -38,6 +38,13 @@ Este projeto aplica técnicas de **Data Intelligence e Business Intelligence** s
 
 ---
 
+## 🎬 Demonstração
+
+<img width="1738" height="962" alt="Animação" src="https://github.com/user-attachments/assets/441567cb-6f80-4a91-ac75-dc6521dad7c3" />
+
+---
+---
+
 ## 🏗️ Arquitetura da Solução
 A solução separa a camada de processamento estatístico (Python) da camada de visualização (Power BI). Toda a lógica de negócio envolvendo limpeza, categorização, ponderação e modelagem dimensional é resolvida no ETL, deixando o DAX restrito a agregações contextuais sobre uma base já estruturada.
 
