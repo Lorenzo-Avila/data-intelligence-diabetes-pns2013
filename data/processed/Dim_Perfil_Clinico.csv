@@ -1,0 +1,237 @@
+﻿ID_Perfil_clinico;Diagnostico_Diabetes;Diagnostico_Hipertensao;Avaliacao_Saude;Uso_Medicamento_Diabetes;Internacao_por_Diabetes;Motivo_Impedimento_Atividades
+1;;;Não informado;Não se aplica;Não se aplica;Não informado
+2;;Não;Regular;Não se aplica;Não se aplica;Não informado
+3;;;Regular;Não se aplica;Não se aplica;Não informado
+4;;Não;Não informado;Não se aplica;Não se aplica;24.0
+5;;Não;Não informado;Não se aplica;Não se aplica;Não informado
+6;;;Regular;Não se aplica;Não se aplica;24.0
+7;;Não;Regular;Não se aplica;Não se aplica;24.0
+8;;;Regular;Não se aplica;Não se aplica;10.0
+9;;;Não informado;Não se aplica;Não se aplica;10.0
+10;Sim;Não;Não informado;Não;Não;Não informado
+11;;Sim;Regular;Não se aplica;Não se aplica;Não informado
+12;;Não;Regular;Não se aplica;Não se aplica;1.0
+13;;Não;Regular;Não se aplica;Não se aplica;22.0
+14;Sim;Não;Regular;Não;Não;22.0
+15;;Não;Regular;Não se aplica;Não se aplica;11.0
+16;Sim;Não;Muito boa;Não;Não se aplica;Não informado
+17;;Não;Regular;Não se aplica;Não se aplica;10.0
+18;;Não;Muito boa;Não se aplica;Não se aplica;Não informado
+19;Sim;Não;Regular;Sim;Sim;Não informado
+20;;Não;Regular;Não se aplica;Não se aplica;2.0
+21;Sim;Sim;Regular;Não;Não;Não informado
+22;;;Muito boa;Não se aplica;Não se aplica;Não informado
+23;;;Não informado;Não se aplica;Não se aplica;20.0
+24;;;Não informado;Não se aplica;Não se aplica;24.0
+25;;;Não informado;Não se aplica;Não se aplica;1.0
+26;Sim;Não;Regular;Não;Não;Não informado
+27;;Sim;Muito boa;Não se aplica;Não se aplica;Não informado
+28;;Não;Regular;Não se aplica;Não se aplica;20.0
+29;;Não;Regular;Não se aplica;Não se aplica;18.0
+30;;Não;Regular;Não se aplica;Não se aplica;3.0
+31;;;Regular;Não se aplica;Não se aplica;19.0
+32;Sim;Não;Regular;Não;Sim;22.0
+33;;Não;Regular;Não se aplica;Não se aplica;5.0
+34;;Sim;Muito boa;Não se aplica;Não se aplica;13.0
+35;;Não;Não informado;Não se aplica;Não se aplica;12.0
+36;;Não;Regular;Não se aplica;Não se aplica;12.0
+37;;;Não informado;Não se aplica;Não se aplica;5.0
+38;;Não;Muito boa;Não se aplica;Não se aplica;5.0
+39;;;Regular;Não se aplica;Não se aplica;12.0
+40;;;Regular;Não se aplica;Não se aplica;5.0
+41;;;Regular;Não se aplica;Não se aplica;9.0
+42;;Sim;Regular;Não se aplica;Não se aplica;24.0
+43;;Não;Regular;Não se aplica;Não se aplica;21.0
+44;;;Regular;Não se aplica;Não se aplica;1.0
+45;;Sim;Regular;Não se aplica;Não se aplica;1.0
+46;Sim;Sim;Regular;Não;Não se aplica;Não informado
+47;;Sim;Regular;Não se aplica;Não se aplica;5.0
+48;Sim;Não;Regular;Sim;Não;Não informado
+49;;Sim;Muito boa;Não se aplica;Não se aplica;1.0
+50;;Não;Regular;Não se aplica;Não se aplica;4.0
+51;;Sim;Muito boa;Não se aplica;Não se aplica;10.0
+52;;;Regular;Não se aplica;Não se aplica;22.0
+53;Sim;Não;Muito boa;Sim;Não;Não informado
+54;;Não;Muito boa;Não se aplica;Não se aplica;14.0
+55;;Sim;Regular;Não se aplica;Não se aplica;20.0
+56;;Sim;Regular;Não se aplica;Não se aplica;12.0
+57;;Não;Muito boa;Não se aplica;Não se aplica;20.0
+58;;Não;Muito boa;Não se aplica;Não se aplica;1.0
+59;;Não;Regular;Não se aplica;Não se aplica;23.0
+60;Sim;Não;Muito boa;Não;Não;Não informado
+61;;;Regular;Não se aplica;Não se aplica;20.0
+62;;Não;Muito boa;Não se aplica;Não se aplica;22.0
+63;;Não;Regular;Não se aplica;Não se aplica;19.0
+64;Sim;Sim;Muito boa;Sim;Não;Não informado
+65;;;Regular;Não se aplica;Não se aplica;2.0
+66;;Sim;Muito boa;Não se aplica;Não se aplica;24.0
+67;;Não;Muito boa;Não se aplica;Não se aplica;24.0
+68;Sim;Não;Regular;Não;Não se aplica;Não informado
+69;Sim;Não;Regular;Sim;Sim;1.0
+70;Sim;Não;Muito boa;Sim;Não se aplica;20.0
+71;Sim;Sim;Regular;Sim;Não;Não informado
+72;;Não;Não informado;Não se aplica;Não se aplica;1.0
+73;Sim;Sim;Muito boa;Sim;Não;16.0
+74;Sim;Sim;Muito boa;Não;Não;Não informado
+75;Sim;Sim;Regular;Não;Sim;Não informado
+76;;;Regular;Não se aplica;Não se aplica;21.0
+77;Sim;Não;Muito boa;Não;Não;5.0
+78;;Sim;Regular;Não se aplica;Não se aplica;10.0
+79;Sim;;Muito boa;Sim;Não;Não informado
+80;Sim;Sim;Muito boa;Não;Não se aplica;Não informado
+81;;Não;Regular;Não se aplica;Não se aplica;9.0
+82;Sim;Sim;Muito boa;Sim;Não;24.0
+83;Sim;Não;Muito boa;Não;Não se aplica;5.0
+84;;;Muito boa;Não se aplica;Não se aplica;16.0
+85;Sim;Não;Regular;Sim;Não;20.0
+86;;Sim;Regular;Não se aplica;Não se aplica;18.0
+87;;Não;Muito boa;Não se aplica;Não se aplica;21.0
+88;Sim;Sim;Muito boa;Sim;Não se aplica;Não informado
+89;;Não;Muito boa;Não se aplica;Não se aplica;3.0
+90;Sim;Não;Muito boa;Não;Sim;Não informado
+91;Sim;Sim;Regular;Sim;Não;2.0
+92;;Não;Muito boa;Não se aplica;Não se aplica;16.0
+93;Sim;Não;Muito boa;Sim;Sim;Não informado
+94;Sim;Sim;Regular;Sim;Não;10.0
+95;;Sim;Muito boa;Não se aplica;Não se aplica;14.0
+96;;;Muito boa;Não se aplica;Não se aplica;24.0
+97;Sim;Sim;Muito boa;Não;Não se aplica;24.0
+98;;;Muito boa;Não se aplica;Não se aplica;12.0
+99;Sim;Não;Muito boa;Sim;Não se aplica;Não informado
+100;;Não;Muito boa;Não se aplica;Não se aplica;10.0
+101;Sim;Não;Regular;Sim;Não se aplica;Não informado
+102;;Sim;Regular;Não se aplica;Não se aplica;11.0
+103;Sim;Sim;Muito boa;Sim;Não se aplica;24.0
+104;Sim;;Regular;Não;Não;Não informado
+105;;Sim;Muito boa;Não se aplica;Não se aplica;18.0
+106;Sim;;Muito boa;Sim;Sim;Não informado
+107;Sim;Não;Regular;Não;Não;10.0
+108;;Sim;Muito boa;Não se aplica;Não se aplica;3.0
+109;Sim;Sim;Muito boa;Sim;Não;1.0
+110;Sim;Não;Regular;Não;Sim;Não informado
+111;Sim;Não;Muito boa;Não;Não;20.0
+112;;Não;Muito boa;Não se aplica;Não se aplica;17.0
+113;Sim;;Não informado;Não;Não se aplica;Não informado
+114;Sim;Sim;Muito boa;Sim;Não;3.0
+115;;Sim;Muito boa;Não se aplica;Não se aplica;16.0
+116;Sim;Não;Muito boa;Sim;Não;10.0
+117;Sim;Sim;Muito boa;Sim;Não;14.0
+118;Sim;Não;Muito boa;Sim;Não;1.0
+119;Sim;Sim;Muito boa;Não;Sim;Não informado
+120;Sim;Sim;Regular;Sim;Sim;Não informado
+121;Sim;Sim;Muito boa;Sim;Sim;Não informado
+122;Sim;Não;Muito boa;Não;Não;2.0
+123;Sim;Sim;Regular;Sim;Não;24.0
+124;Sim;;Não informado;Não;Não;Não informado
+125;;Não;Muito boa;Não se aplica;Não se aplica;2.0
+126;;Sim;Não informado;Não se aplica;Não se aplica;Não informado
+127;;;Regular;Não se aplica;Não se aplica;3.0
+128;;Sim;Muito boa;Não se aplica;Não se aplica;2.0
+129;;Não;Regular;Não se aplica;Não se aplica;16.0
+130;;;Muito boa;Não se aplica;Não se aplica;1.0
+131;;Não;Boa;Não se aplica;Não se aplica;Não informado
+132;;;Boa;Não se aplica;Não se aplica;Não informado
+133;;Não;Regular;Não se aplica;Não se aplica;7.0
+134;;Não;Boa;Não se aplica;Não se aplica;10.0
+135;;;Regular;Não se aplica;Não se aplica;7.0
+136;Sim;Não;Boa;Não;Sim;5.0
+137;;Não;Não informado;Não se aplica;Não se aplica;21.0
+138;Não;Não;Boa;Não se aplica;Não se aplica;Não informado
+139;Não;Não;Regular;Não se aplica;Não se aplica;Não informado
+140;Não;Não;Regular;Não se aplica;Não se aplica;20.0
+141;;Não;Boa;Não se aplica;Não se aplica;1.0
+142;;Sim;Regular;Não se aplica;Não se aplica;7.0
+143;;Não;Boa;Não se aplica;Não se aplica;12.0
+144;;Sim;Boa;Não se aplica;Não se aplica;Não informado
+145;;Não;Regular;Não se aplica;Não se aplica;6.0
+146;;;Regular;Não se aplica;Não se aplica;11.0
+147;;Não;Boa;Não se aplica;Não se aplica;20.0
+148;;Não;Não informado;Não se aplica;Não se aplica;20.0
+149;;Não;Regular;Não se aplica;Não se aplica;8.0
+150;Não;;Regular;Não se aplica;Não se aplica;Não informado
+151;Não;Não;Não informado;Não se aplica;Não se aplica;Não informado
+152;;Sim;Muito boa;Não se aplica;Não se aplica;9.0
+153;Não;Não;Muito boa;Não se aplica;Não se aplica;Não informado
+154;Não;Sim;Boa;Não se aplica;Não se aplica;Não informado
+155;;Não;Regular;Não se aplica;Não se aplica;17.0
+156;Não;;Não informado;Não se aplica;Não se aplica;Não informado
+157;Não;Não;Regular;Não se aplica;Não se aplica;12.0
+158;;Sim;Regular;Não se aplica;Não se aplica;21.0
+159;Sim;;Regular;Não;Não se aplica;Não informado
+160;Não;Não;Regular;Não se aplica;Não se aplica;18.0
+161;Não;Sim;Muito boa;Não se aplica;Não se aplica;Não informado
+162;;Sim;Regular;Não se aplica;Não se aplica;2.0
+163;;Não;Regular;Não se aplica;Não se aplica;14.0
+164;;Sim;Boa;Não se aplica;Não se aplica;1.0
+165;;;Regular;Não se aplica;Não se aplica;16.0
+166;Não;Sim;Regular;Não se aplica;Não se aplica;Não informado
+167;;;Boa;Não se aplica;Não se aplica;1.0
+168;Sim;;Regular;Sim;Não se aplica;Não informado
+169;;Não;Muito boa;Não se aplica;Não se aplica;6.0
+170;Sim;Sim;Muito boa;Sim;Sim;15.0
+171;Sim;;Regular;Sim;Não;Não informado
+172;;;Regular;Não se aplica;Não se aplica;6.0
+173;;Sim;Regular;Não se aplica;Não se aplica;22.0
+174;Sim;Não;Regular;Não;Não se aplica;1.0
+175;;Sim;Muito boa;Não se aplica;Não se aplica;5.0
+176;;Sim;Boa;Não se aplica;Não se aplica;24.0
+177;;Sim;Muito boa;Não se aplica;Não se aplica;4.0
+178;;Não;Muito boa;Não se aplica;Não se aplica;11.0
+179;;;Muito boa;Não se aplica;Não se aplica;22.0
+180;;Não;Muito boa;Não se aplica;Não se aplica;18.0
+181;Sim;Não;Boa;Sim;Não;Não informado
+182;Sim;Sim;Muito boa;Sim;Sim;24.0
+183;;Sim;Muito boa;Não se aplica;Não se aplica;19.0
+184;Sim;Sim;Muito boa;Sim;Não;11.0
+185;Sim;Sim;Regular;Sim;Não;17.0
+186;;Não;Muito boa;Não se aplica;Não se aplica;19.0
+187;;Sim;Regular;Não se aplica;Não se aplica;14.0
+188;;Sim;Regular;Não se aplica;Não se aplica;3.0
+189;Sim;Não;Muito boa;Sim;Não;24.0
+190;;;Muito boa;Não se aplica;Não se aplica;14.0
+191;Sim;Não;Muito boa;Sim;Sim;1.0
+192;Sim;Sim;Muito boa;Não;Sim;5.0
+193;;Sim;Muito boa;Não se aplica;Não se aplica;15.0
+194;Sim;Sim;Muito boa;Sim;Sim;11.0
+195;;;Muito boa;Não se aplica;Não se aplica;2.0
+196;;Sim;Regular;Não se aplica;Não se aplica;19.0
+197;;Não;Muito boa;Não se aplica;Não se aplica;7.0
+198;Sim;Não;Muito boa;Não;Sim;14.0
+199;Sim;Sim;Muito boa;Sim;Não;18.0
+200;;Sim;Muito boa;Não se aplica;Não se aplica;20.0
+201;Sim;Não;Regular;Sim;Não;14.0
+202;Sim;Não;Muito boa;Sim;Não;15.0
+203;Sim;Sim;Muito boa;Sim;Não se aplica;6.0
+204;Sim;Sim;Regular;Sim;Sim;3.0
+205;;Não;Muito boa;Não se aplica;Não se aplica;15.0
+206;Sim;Sim;Muito boa;Não;Não;18.0
+207;;Sim;Muito boa;Não se aplica;Não se aplica;17.0
+208;Sim;Não;Muito boa;Sim;Não se aplica;4.0
+209;Sim;Sim;Muito boa;Não;Não;24.0
+210;Sim;Sim;Muito boa;Sim;Não;15.0
+211;Sim;Sim;Muito boa;Não;Não;1.0
+212;Sim;Sim;Regular;Sim;Não;15.0
+213;Sim;Não;Muito boa;Não;Não;18.0
+214;Sim;Sim;Regular;Sim;Não;1.0
+215;Sim;Sim;Muito boa;Sim;Não;10.0
+216;Sim;Sim;Muito boa;Sim;Não se aplica;1.0
+217;;Sim;Regular;Não se aplica;Não se aplica;17.0
+218;Sim;Não;Muito boa;Não;Não;1.0
+219;Sim;;Regular;Não;Não se aplica;2.0
+220;;Sim;Muito boa;Não se aplica;Não se aplica;11.0
+221;Sim;Não;Muito boa;Sim;Não;16.0
+222;Sim;Sim;Muito boa;Sim;Não;22.0
+223;Sim;Não;Muito boa;Sim;Não;14.0
+224;;Sim;Muito boa;Não se aplica;Não se aplica;22.0
+225;Sim;Não;Regular;Sim;Não;19.0
+226;Sim;Não;Regular;Sim;Sim;15.0
+227;Sim;Não;Regular;Sim;Não;24.0
+228;Não;Não;Boa;Não se aplica;Não se aplica;1.0
+229;;Não;Muito boa;Não se aplica;Não se aplica;9.0
+230;Sim;Sim;Regular;Sim;Não;20.0
+231;;Sim;Muito boa;Não se aplica;Não se aplica;12.0
+232;Sim;Sim;Regular;Não;Não;24.0
+233;Sim;Não;Regular;Não;Não;24.0
+234;Sim;Não;Muito boa;Sim;Não se aplica;14.0
+235;Sim;Sim;Muito boa;Sim;Não;20.0
+236;Sim;Não;Muito boa;Não;Sim;16.0

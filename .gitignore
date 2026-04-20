@@ -1,0 +1,12 @@
+# Ignorar dados brutos e staging (muito grandes)
+data/raw/
+*.csv
+!data/processed/*.csv
+
+# Ignorar checkpoints do Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# Arquivos de sistema
+Thumbs.db
+.DS_Store
