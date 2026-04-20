@@ -228,12 +228,6 @@ data-intelligence-diabetes-pns2013/
 ├── data/
 │   ├── raw/                        # Microdados brutos PNS 2013 (não versionados)
 │   └── processed/                  # CSVs do star schema (gerados pelo notebook)
-│       ├── Fato_Individual_Lab.csv
-│       ├── Dim_Sociodemografia.csv
-│       ├── Dim_Geografia.csv
-│       ├── Dim_Perfil_Clinico.csv
-│       ├── Dim_Complicacoes_Diabetes.csv
-│       └── Dim_Estilo_Vida_Acesso.csv
 ├── notebooks/
 │   └── limpeza_PNS_2013.ipynb      # Pipeline ETL completo e documentado
 ├── .gitignore
