@@ -31,7 +31,7 @@ Este projeto aplica técnicas de **Data Intelligence e Business Intelligence** s
 
 | Recurso | Link |
 |---|---|
-| 📊 Dashboard publicado | [Acessar no Power BI Service](https://app.powerbi.com/seu-link-aqui) |
+| 📊 Dashboard publicado | [Acessar no Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiOTRhOGUyMzMtY2U3Zi00ZTkwLTk0NDYtYzE4OTA5OGE4ODM1IiwidCI6IjllNTJkZDBlLWYwYzUtNGJhMS05N2Y1LTZmYThhZjQyMjBiMSJ9&pageName=c25b4f1ed006e3118d30) |
 | 🗄️ Microdados PNS 2013 | [IBGE — PNS Exames Laboratoriais](https://ftp.ibge.gov.br/PNS/2013/Divulgacoes/Outros/Exames/BASE_EXAMES_PNS_2013.txt) |
 | 📖 Dicionário de variáveis | [FTP IBGE — Documentação](https://ftp.ibge.gov.br/PNS/2013/Divulgacoes/Outros/Exames/Dicionario_Exames_PNS_2013.xlsx) |
 | 📋 Nota Técnica Peso Lab | [Nota Técnica Oficial IBGE](https://ftp.ibge.gov.br/PNS/2013/Divulgacoes/Outros/Exames/Nota_tecnica_Exames_Laboratoriais_PNS.pdf) |
